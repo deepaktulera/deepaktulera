@@ -1,7 +1,7 @@
 
 # Deepak Tulera
 
-Hi, I'm Deepak Tulera, a MERN Stack Developer from India.
+Hi, I'm Deepak Tulera, a Aspiring MERN Stack Developer from India.
 
 ## Skills
 React.js
